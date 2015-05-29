@@ -1,0 +1,4 @@
+# Aptana stuff
+.project
+.settings
+.settings/*
